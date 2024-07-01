@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Dicoding</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Sign In</string>
+    <string name="message_welcome_page">Masukkan Akunmu</string>
+    <string name="title_welcome_page">Halo! Selamat Datang di Aplikasi List Dicoding</string>
+    <string name="title_signup_page">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="title_login_page">Sign In</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Ayo belajar bersama dicoding ^^.</string>
+    <string name="greeting">Halo!</string>
+    <string name="logout">Log Out</string>
+    <string name="description">Deskripsi</string>
+    <string name="date">Tanggal</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="add_description">Add Description</string>
+    <string name="empty_image_warning">Tambahkan Gambar</string>
+    <string name="email_hint">Masukkan Email</string>
+    <string name="password_hint">Masukkan Password</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
